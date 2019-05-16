@@ -1,0 +1,73 @@
+[
+  {
+    "name": "Learning HTML/CSS (Ek naya naam)",
+    "description": "Iss course mein hum ache se HTML aur CSS seekhenge.",
+    "id": 1,
+    "exercise": [
+      {
+        "courseid": 1,
+        "exid": 1,
+        "tags": "here we will learn use of tags"
+      },
+      {
+        "courseid": 1,
+        "exid": 2,
+        "create web": "we will create website with html"
+      },
+      {
+        "exercise id": "there was error it was not increasing id of exercise(final text and writeing json) ",
+        "courseid": "1",
+        "exid": 3
+      },
+      {
+        "exercise id": "there was error it was not increasing id of exercise(final text and writeing json) ",
+        "courseid": "1",
+        "exid": 4
+      }
+    ]
+  },
+  {
+    "name": "python",
+    "description": "Iss course mein hum ache se HTML aur CSS seekhenge.",
+    "id": 2,
+    "exercise": [
+      {
+        "courseid": 2,
+        "exid": 1,
+        "loop": "all type of loops in java"
+      },
+      {
+        "exercise id": "there was error it was not increasing id of exercise(final text and writeing json) ",
+        "courseid": "2",
+        "exid": 2
+      },
+      {
+        "exercise id": "exercise testing pass",
+        "courseid": "2",
+        "exid": 3
+      }
+    ]
+  },
+  {
+    "name": "Learning HTML/CSS (Ek naya naam)",
+    "description": "Iss course mein hum ache se HTML aur CSS seekhenge.",
+    "id": 3,
+    "exercise": [
+      {
+        "courseid": 1,
+        "exid": 1,
+        "tags": "here we will learn use of tags"
+      },
+      {
+        "courseid": 1,
+        "exid": 2,
+        "create web": "we will create website with html"
+      },
+      {
+        "exercise id": "there was error it was not increasing id of exercise(final text and writeing json) ",
+        "courseid": "3",
+        "exid": 3
+      }
+    ]
+  }
+]
